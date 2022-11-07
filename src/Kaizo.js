@@ -809,7 +809,7 @@ export class Kaizo extends Component {
 
   render() {
     if (this.state.error === true) {
-      return <Redirect to="/" />;
+      return <Redirect to="/pil" />;
     }
     return (
       <div className="App">

@@ -4,6 +4,7 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import "./i18n";
+import BrowserRouter from 'react-router-dom/BrowserRouter'
 import i18next from "i18next";
 
 if (localStorage.getItem("lang") === null) {
@@ -15,9 +16,9 @@ const lang = localStorage.getItem("lang");
 i18next.changeLanguage(lang);
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <React.StrictMode>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
     <App />
-  </React.StrictMode>
+    </BrowserRouter>
 );
 
 // If you want to start measuring performance in your app, pass a function

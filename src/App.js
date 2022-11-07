@@ -8,9 +8,9 @@ export class App extends Component {
   render() {
     return (
       <BrowserRouter>
-        <Route exact path="/" component={Login} />
+        <Route exact path="/pil" component={Login} />
         {/* <Route exact path="/register" component={Register} /> */}
-        <Route exact path="/kaizo" component={Kaizo} />
+        <Route exact path="/pil/kaizo" component={Kaizo} />
       </BrowserRouter>
     );
   }
