@@ -10,6 +10,7 @@ if (localStorage.getItem("lang") === null) {
   var nav = navigator.language.split("-");
   nav = nav[0];
   localStorage.setItem("lang", nav);
+
   
 }
 const lang = localStorage.getItem("lang");
