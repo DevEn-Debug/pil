@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pil/static/css/main.c7d6c3d4.css",
-    "main.js": "/pil/static/js/main.fd4f4363.js",
+    "main.js": "/pil/static/js/main.0bab8915.js",
     "static/js/787.069c175a.chunk.js": "/pil/static/js/787.069c175a.chunk.js",
     "static/media/logo.png": "/pil/static/media/logo.a564d7fa02155c807512.png",
     "static/media/pikachu-sinnohcap.gif": "/pil/static/media/pikachu-sinnohcap.18340a04028dbcdb6f4e.gif",
@@ -11,11 +11,11 @@
     "static/media/cavern.png": "/pil/static/media/cavern.1490f514b51b4bb3b760.png",
     "index.html": "/pil/index.html",
     "main.c7d6c3d4.css.map": "/pil/static/css/main.c7d6c3d4.css.map",
-    "main.fd4f4363.js.map": "/pil/static/js/main.fd4f4363.js.map",
+    "main.0bab8915.js.map": "/pil/static/js/main.0bab8915.js.map",
     "787.069c175a.chunk.js.map": "/pil/static/js/787.069c175a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c7d6c3d4.css",
-    "static/js/main.fd4f4363.js"
+    "static/js/main.0bab8915.js"
   ]
 }
