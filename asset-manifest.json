@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.c7d6c3d4.css",
-    "main.js": "/static/js/main.21f40410.js",
-    "static/js/787.069c175a.chunk.js": "/static/js/787.069c175a.chunk.js",
-    "static/media/logo.png": "/static/media/logo.a564d7fa02155c807512.png",
-    "static/media/pikachu-sinnohcap.gif": "/static/media/pikachu-sinnohcap.18340a04028dbcdb6f4e.gif",
-    "static/media/hitmonchan.gif": "/static/media/hitmonchan.520429cdcdecd38b3842.gif",
-    "static/media/pika.png": "/static/media/pika.6c94309028c267dd8403.png",
-    "static/media/save.svg": "/static/media/save.6d538e48a204456508176aafeb8eeb0f.svg",
-    "static/media/cavern.png": "/static/media/cavern.1490f514b51b4bb3b760.png",
-    "index.html": "/index.html",
-    "main.c7d6c3d4.css.map": "/static/css/main.c7d6c3d4.css.map",
-    "main.21f40410.js.map": "/static/js/main.21f40410.js.map",
-    "787.069c175a.chunk.js.map": "/static/js/787.069c175a.chunk.js.map"
+    "main.css": "/pil/static/css/main.c7d6c3d4.css",
+    "main.js": "/pil/static/js/main.fd4f4363.js",
+    "static/js/787.069c175a.chunk.js": "/pil/static/js/787.069c175a.chunk.js",
+    "static/media/logo.png": "/pil/static/media/logo.a564d7fa02155c807512.png",
+    "static/media/pikachu-sinnohcap.gif": "/pil/static/media/pikachu-sinnohcap.18340a04028dbcdb6f4e.gif",
+    "static/media/hitmonchan.gif": "/pil/static/media/hitmonchan.520429cdcdecd38b3842.gif",
+    "static/media/pika.png": "/pil/static/media/pika.6c94309028c267dd8403.png",
+    "static/media/save.svg": "/pil/static/media/save.6d538e48a204456508176aafeb8eeb0f.svg",
+    "static/media/cavern.png": "/pil/static/media/cavern.1490f514b51b4bb3b760.png",
+    "index.html": "/pil/index.html",
+    "main.c7d6c3d4.css.map": "/pil/static/css/main.c7d6c3d4.css.map",
+    "main.fd4f4363.js.map": "/pil/static/js/main.fd4f4363.js.map",
+    "787.069c175a.chunk.js.map": "/pil/static/js/787.069c175a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c7d6c3d4.css",
-    "static/js/main.21f40410.js"
+    "static/js/main.fd4f4363.js"
   ]
 }
