@@ -9,9 +9,7 @@ import i18next from "i18next";
 if (localStorage.getItem("lang") === null) {
   var nav = navigator.language.split("-");
   nav = nav[0];
-  localStorage.setItem("lang", nav);
-
-  
+  localStorage.setItem("lang", nav);  
 }
 const lang = localStorage.getItem("lang");
 i18next.changeLanguage(lang);
