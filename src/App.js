@@ -10,7 +10,7 @@ export class App extends Component {
       <BrowserRouter>
         <Route exact path="/pil" component={Login} />
         {/* <Route exact path="/register" component={Register} /> */}
-        <Route exact path="/pil/kaizo" component={Kaizo} />
+        <Route exact path="/kaizo" component={Kaizo} />
       </BrowserRouter>
     );
   }

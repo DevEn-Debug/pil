@@ -56,7 +56,7 @@ export class Login extends Component {
       return (
         <Redirect
           to={{
-            pathname: "pil/kaizo",
+            pathname: "/kaizo",
             state: { name: this.state.email, psw: this.state.psw }
           }}
         />
